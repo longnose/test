@@ -1,3 +1,10 @@
 body {
     background-color: lightblue;
 }
+.center {
+    margin: auto;
+    width: 50%;
+    background-color: white;
+    border: 1px grey;
+    padding: 25px;
+}

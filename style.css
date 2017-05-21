@@ -1,6 +1,7 @@
 body {
     background-color: lightblue;
     padding: 0px;
+    overflow: hidden;
 }
 .contentbox {
     margin: auto;

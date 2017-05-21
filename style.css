@@ -48,6 +48,6 @@ body {
 
 	}
 	.middle {
-		margin:-10px;
+		display: block;
 	}
 }

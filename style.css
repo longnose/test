@@ -1,7 +1,7 @@
 body {
     background-color: lightblue;
 }
-.center {
+.contentbox {
     margin: auto;
     width: 50%;
     background-color: white;
@@ -24,4 +24,10 @@ body {
     margin-left: auto;
     margin-right: auto; 
     width: /*whatever width you want*/;
+}
+@media only screen and (max-width: 500px) {
+    .contentbox {
+        width: 50%;
+        padding: 15px;
+    }
 }

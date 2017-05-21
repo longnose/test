@@ -31,7 +31,7 @@ body {
 @media only screen and (max-width: 500px) {
     .contentbox {
     	display: block;
-    	width: auto;
+    	width: 100%;
         padding: 15px;
         margin-right: auto;
     	margin-left: auto;
@@ -43,7 +43,7 @@ body {
     .outer {
 	    margin-right: auto;
 	    margin-left: auto;
-	    width: auto;
+	    width: 100%;
 	    background-color: white;
 
 	}

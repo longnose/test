@@ -27,7 +27,7 @@ body {
 }
 @media only screen and (max-width: 500px) {
     .contentbox {
-        width: 100%;
+        width: auto;
         padding: 15px;
     }
     .outer {

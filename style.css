@@ -7,7 +7,7 @@ body {
     background-color: white;
     border: 1px grey;
     padding: 25px;
-} /*
+} 
 .outer {
     display: table;
     position: absolute;
@@ -30,4 +30,6 @@ body {
         width: 100%;
         padding: 15px;
     }
+    .outer {
+    display: block;
 }

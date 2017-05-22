@@ -1,9 +1,9 @@
 html {
-    overflow-x: !importanthidden; }
+    overflow-x: hidden; }
 
-body {
+/* body {
     background-color: #ffffff;
-    overflow: hidden;
+    overflow: hidden; */
 }
 body, html {
     height: 100%;

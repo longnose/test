@@ -13,7 +13,7 @@ body, html {
 .bg {
     /* The image used */
     background-image: url("images/serge-khrumalo-sketchbook-page-background.png");
-
+opacity: 0.6;
     /* Full height */
     height: 100%; 
 

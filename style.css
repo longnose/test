@@ -1,8 +1,8 @@
 html {
-    overflow-x: hidden; }
+    overflow-x: !importanthidden; }
 
 body {
-    background-color: #d0d0d0;
+    background-color: #fafafa;
     overflow: hidden;
 }
 body, html {
@@ -25,7 +25,7 @@ body, html {
     margin: auto;
     width: 50%;
     background-color: white;
-    border: 1px solid #d0d0d0;
+    border: 1px solid #fafafa;
     padding: 25px;
 } 
 .outer {

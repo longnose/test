@@ -26,7 +26,7 @@ body, html {
     margin: auto;
     width: 50%;
     background-color: white;
-    border: 1px grey;
+    border: 1px solid black;
     padding: 25px;
 } 
 .outer {

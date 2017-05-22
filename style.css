@@ -2,7 +2,7 @@ html {
     overflow-x: !importanthidden; }
 
 body {
-    background-color: #000000;
+    background-color: #ffffff;
     overflow: hidden;
 }
 body, html {
@@ -12,7 +12,7 @@ body, html {
 
 .bg {
     /* The image used */
-    background-image: url("images/serge-khrumalo-sketchbook-page-background_v2.jpg");
+    background-image: url("images/serge-khrumalo-sketchbook-page-background_v2.JPG");
     /* Full height */
     height: 100%; 
 
@@ -25,7 +25,7 @@ body, html {
     margin: auto;
     width: 50%;
     background-color: white;
-    border: 10px solid #ffffff;
+    border: 10px solid #000000;
     padding: 25px;
 } 
 .outer {
